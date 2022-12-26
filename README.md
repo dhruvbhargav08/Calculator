@@ -1,2 +1,2 @@
-# Calculator
-A simple calculator using python Tkinter
+# Calculator 
+This is a simple calculator made using python Tkinter for GUI.
